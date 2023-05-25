@@ -5,7 +5,7 @@ export default function App() {
   return (
     <div className="App">
       <div className="container">
-        <Weather />
+        <Weather defaultCity="Nairobi" />
         <p className="mt-3">
           This project was coded by Tracy Moige and is{" "}
           <a href="https://github.com/tracymoige/react-weather-project">
