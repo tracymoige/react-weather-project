@@ -47,3 +47,7 @@
   line-height: 1;
   margin-left: 5px;
 }
+
+.WeatherTemperature a {
+  text-decoration: none;
+}
